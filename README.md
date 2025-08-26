@@ -7,3 +7,5 @@ For the best use of this app, use the [Builder tool](https://github.com/AntHJ/Bo
 Use it if you ever get this error :
 [string "?"]:226: bad argument #1 to 'isPlaying' (number expected, got nil)
 just modify the index.lua file with the new one
+
+It also contains other graphical updates. [only in the realesed VPK file]
